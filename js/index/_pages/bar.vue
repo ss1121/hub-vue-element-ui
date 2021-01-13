@@ -1,6 +1,7 @@
 <template>
   <div class="page-container" >
     {{bar}}
+    <img src='/images/x.png' />
   </div>
 </template>
 
