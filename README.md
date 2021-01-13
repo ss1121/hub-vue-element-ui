@@ -24,10 +24,10 @@ cd workspacename
 
 ### 远程安装本项目  
 
-安装`hub-vue2`项目
+安装`hub-vue-element-ui`项目
 
 ```bash
-aotoo install https://github.com/webkixi/hub-vue2.git
+aotoo install https://github.com/ss1121/hub-vue-element-ui.git
 ```
 
 根据提示操作，等待安装完毕，即可在本地运行项目
